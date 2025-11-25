@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: mcmichael10
+about-featured-image: assets/img/Baseballschlaegerjahre_RLP_Gruppe_Nazis_gross.jpg
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -18,27 +18,15 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-This is the Oral History as Data (OHD) template/demo site. It features several coded transcripts from [CTRL+Shift](https://ctrl-shift.org/){:target="_blank"} to demonstrate the various AV sources and options for a OHD project. . 
-
-If you'd like to copy an Oral History as Data template and get started, go to this site's repo--[the OHD GitHub Template repository](https://github.com/oralhistoryasdata/template){:target="_blank"}--and click the green "Use This Template" button at the right. 
+"Das Projekt „Baseballschlägerjahre RLP: Lehren des zivilgesellschaftlichen Kampfes der 90er Jahre gegen Rechtsextremismus“ sammelt Erfahrungen und Geschichten von Menschen in Rheinland-Pfalz, die in den 1990er Jahren mit rechter Gewalt konfrontiert waren oder sich gegen Rechtsextremismus organisierten. Es beleuchtet, wie sie die heutige Situation einer erstarkenden Rechten wahrnehmen und welche Lehren sie aus der Vergangenheit ziehen.
+If you'd like to copy an Oral History as Data template and get started, go to this site's repo--[the OHD GitHub Template repository](https://github.com/oralhistoryasdata/template){:target="_blank"}--and click the green "Use This Template" button at the right." 
 
 ***To create your own About page for your project, just delete everything here and use Markdown to write your content.***
 
-For more instruction, [see our documentation](https://oralhistoryasdata.github.io/docs/)
-
-## About Oral History as Data
-
-The [Oral History as Data (OHD)](https://github.com/oralhistoryasdata/) framework is a static website generator that allows users to analyze and publish coded oral history or qualitative interview files. By turning transcriptions into tagged/coded CSV files, adding a list of filters, and creating a simple markdown file for each interview (to be included in the _transcripts collection), OHD will provide filterable transcripts and a color coded visualization for all transcripts included. 
 
 
-## Documentation
-
-- **[Full OHD Documentation](https://oralhistoryasdata.github.io/docs/) -** Our documentation provides how to guides, tutorials, and stepped instruction for building your own Oral History as Data project.  
-
-- **[CollectionBuilder Documentation](https://collectionbuilder.github.io/docs/) -** OHD is built on top of a CollectionBuilder-CSV template, so any options used in CSV can be used here. 
 
 
-Please feel free to contact me with any questions. I'm happy to help. <dbecker@uidaho.edu>
 
 
  
