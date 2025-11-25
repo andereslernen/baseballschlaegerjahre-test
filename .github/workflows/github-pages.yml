@@ -1,0 +1,39 @@
+name: GitHub Pages Build and Deploy
+
+on:
+  push:
+    branches:
+      - main  # Branch, der die Seite bauen und deployen soll
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Repository auschecken
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Ruby installieren
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1  # Aktuelle Version
+
+      # 3️⃣ Abhängigkeiten installieren
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      # 4️⃣ Jekyll Seite bauen
+      - name: Build site
+        run: bundle exec jekyll build
+
+      # 5️⃣ Build auf GitHub Pages deployen
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          user_name: "github-actions_
