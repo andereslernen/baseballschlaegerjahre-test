@@ -1,5 +1,5 @@
 ---
-title: Das Projekt
+title:  Das Projekt
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
