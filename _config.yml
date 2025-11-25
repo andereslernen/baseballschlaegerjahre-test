@@ -26,6 +26,10 @@ tagline: Analyze and publish coded oral history and qualitative interviews
 description: "The Oral History as Data (OHD) tool is a static website generator that allows users to analyze and publish coded oral history or qualitative interview files. More information about the project and how to use it be found on [the project website](https://oralhistoryasdata.github.io/about.html)."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: dcnb
+id: baseball-page
+# optional footer text
+footer_text: "© 2025 Anderses Lernen"
+
 
 ##########
 # COLLECTION SETTINGS
@@ -71,7 +75,4 @@ exclude: [docs/, Rakefile, rakelib/, README.md, LICENSE, CITATION.cff, CODE_OF_C
 # compress CSS output
 sass:
   style: compressed
-
-  id: baseball-page
-footer_text: "© 2025 Anderses Lernen"
 
