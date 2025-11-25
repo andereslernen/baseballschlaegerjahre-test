@@ -18,7 +18,7 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-"Das Projekt „Baseballschlägerjahre RLP: Lehren des zivilgesellschaftlichen Kampfes der 90er Jahre gegen Rechtsextremismus“ sammelt Erfahrungen und Geschichten von Menschen in Rheinland-Pfalz, die in den 1990er Jahren mit rechter Gewalt konfrontiert waren oder sich gegen Rechtsextremismus organisierten. Es beleuchtet, wie sie die heutige Situation einer erstarkenden Rechten wahrnehmen und welche Lehren sie aus der Vergangenheit ziehen.
+"Das Projekt „Baseballschlägerjahre RLP: Lehren des zivilgesellschaftlichen Kampfes der 90er Jahre gegen Rechtsextremismus“ sammelt Erfahrungen und Geschichten von Menschen in Rheinland-Pfalz, die in den 1990er Jahren mit rechter Gewalt konfrontiert waren oder sich gegen Rechtsextremismus organisierten. Es beleuchtet, wie sie die heutige Situation einer erstarkenden Rechten wahrnehmen und welche Lehren sie aus der Vergangenheit ziehen."
 
 
 
