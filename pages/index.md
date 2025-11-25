@@ -1,7 +1,8 @@
 ---
-layout: home-cover # if using CollectionBuilder look, change to home-infographic
+layout: home-cover
 title: Home
 permalink: /
+cover-image: /assets/images/mein-banner.png   # <--- Pfad zu deinem Bannerbild
+cover-alt: "Beschreibung meines Banners"      # optional, für Barrierefreiheit
 ---
 
-<img src="/assets/images/mein-bild.png" alt="Beschreibung meines Bildes" width="600">
