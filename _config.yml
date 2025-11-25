@@ -18,12 +18,12 @@ source-code: https://github.com/andereslernen/baseballschlaegerjahre-test
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History as Data Template/Demo
+title: Baseballschlägerjahre RLP
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: Lehren des zivilgesellschaftlichen Kampfes der 90er Jahre gegen Rechtsextremismus 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Oral History as Data (OHD) tool is a static website generator that allows users to analyze and publish coded oral history or qualitative interview files. More information about the project and how to use it be found on [the project website](https://oralhistoryasdata.github.io/about.html)."
+description:  Das Projekt „Baseballschlägerjahre RLP: Lehren des zivilgesellschaftlichen Kampfes der 90er Jahre gegen Rechtsextremismus“ sammelt Erfahrungen und Geschichten von Menschen in Rheinland-Pfalz, die in den 1990er Jahren mit rechter Gewalt konfrontiert waren oder sich gegen Rechtsextremismus organisierten. Es beleuchtet, wie sie die heutige Situation einer erstarkenden Rechten wahrnehmen und welche Lehren sie aus der Vergangenheit ziehen.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: dcnb
 id: baseball-page
